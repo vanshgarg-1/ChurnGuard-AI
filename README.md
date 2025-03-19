@@ -1,5 +1,5 @@
 
-# ChurnGuard AI🚀📈
+# ChurnGuard AI : Predict, Prevent, Prosper 
 
 - Live Link : https://churnguard-ai.streamlit.app/
 - Blog Link : https://vanshgarg.framer.website/works/churnguard-ai
