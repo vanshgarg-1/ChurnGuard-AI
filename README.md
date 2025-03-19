@@ -1,8 +1,7 @@
 
 # ChurnGuard AI : Predict, Prevent, Prosper 
 
-- Live Link : https://churnguard-ai.streamlit.app/
-- Blog Link : https://vanshgarg.framer.website/works/churnguard-ai
+- [Live Link](https://churnguard-ai.streamlit.app/) & [Blog Link](https://vanshgarg.framer.website/works/churnguard-ai)
 
 # The Problem: Why Churn Matters
 Customer churn is a silent revenue killer. Businesses invest heavily in acquiring customers, only to lose them due to factors like poor service, better competitor offers, or lack of engagement. The challenge lies in identifying at-risk customers before they leave. Traditional approaches rely on historical data and manual analysis, which are time-consuming and often ineffective. Without a proactive solution, businesses are left playing catch-up, losing valuable customers and revenue in the process.
